@@ -3,6 +3,10 @@
   "version": "1.0.8",
   "description": "The TypeScript compiler with onSuccess command and LF line endings",
   "main": "tsc-watch.js",
+  "files": [
+    "tsc-watch.js",
+    "killer.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
